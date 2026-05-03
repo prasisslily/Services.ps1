@@ -1,1 +1,1 @@
-﻿Start-Process "E:\TunnelBear\Tunnelbear_UI.exe" -ArgumentList "-arg1 -arg2"
+﻿start "E:\TunnelBear\Tunnelbear_UI.exe" -ArgumentList "-arg1 -arg2"
